@@ -1,0 +1,9 @@
+{
+  "name":"8 Crore Naam Jap Mission",
+  "short_name":"Naam Jap",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f7f3ed",
+  "theme_color":"#bd672e",
+  "icons":[]
+}
